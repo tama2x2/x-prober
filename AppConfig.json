@@ -9,7 +9,7 @@
   "APP_CONFIG_URLS": [
     "https://raw.githubusercontent.com/tama2x2/x-prober/master/AppConfig.json"
   ],
-  "APP_CONFIG_URL_DEV": "http://localhost:8000/AppConfig.json",
+  "APP_CONFIG_URL_DEV": "https://raw.githubusercontent.com/tama2x2/x-prober/master/AppConfig.json",
   "APP_TEMPERATURE_SENSOR_URL": "http://127.0.0.1",
   "APP_TEMPERATURE_SENSOR_PORTS": [2048, 4096],
   "AUTHOR_NAME": "INN STUDIO",
