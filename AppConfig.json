@@ -7,7 +7,7 @@
     "https://raw.githubusercontent.com/tama2x2/x-prober/master/dist/prober.php"
   ],
   "APP_CONFIG_URLS": [
-    "https://raw.githubusercontent.com/kmvan/x-prober/master/AppConfig.json"
+    "https://raw.githubusercontent.com/tama2x2/x-prober/master/AppConfig.json"
   ],
   "APP_CONFIG_URL_DEV": "http://localhost:8000/AppConfig.json",
   "APP_TEMPERATURE_SENSOR_URL": "http://127.0.0.1",
