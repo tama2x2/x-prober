@@ -5,7 +5,7 @@
   "AUTHOR_URL": "https://inn-studio.com/prober",
   "UPDATE_PHP_URLS": [
     "https://raw.githubusercontent.com/tama2x2/x-prober/master/dist/prober.php",
-    ""https://raw.githubusercontent.com/tama2x2/x-prober/master/dist/prober.php""
+    "https://raw.githubusercontent.com/tama2x2/x-prober/master/dist/prober.php"
   ],
   "APP_CONFIG_URLS": [
     "https://raw.githubusercontent.com/tama2x2/x-prober/master/AppConfig.json",
